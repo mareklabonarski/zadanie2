@@ -1,0 +1,38 @@
+{
+  "A": [1, 1],
+  "B": [50, 10],
+  "transceivers": [
+    {
+      "location": [1, 4],
+      "power": 120
+    },
+    {
+      "location": [4, 7],
+      "power": 120
+    },
+    {
+      "location": [8, 13],
+      "power": 700
+    },
+    {
+      "location": [8, 27],
+      "power": 700
+    },
+    {
+      "location": [19, 8],
+      "power": 300
+    },
+    {
+      "location": [25, 14],
+      "power": 300
+    },
+    {
+      "location": [28, 23],
+      "power": 500
+    },
+    {
+      "location": [25, 30],
+      "power": 500
+    }
+  ]
+}
