@@ -78,7 +78,7 @@ class Transceiver:
         
         for route in routes:
             last = route[-1]
-            for transceiver in list(last.neighbours):
+            for transceiver in last.neighbours:
                 if transceiver not in visited:
                     visited.append(transceiver)
                     new_route = route + [transceiver]
